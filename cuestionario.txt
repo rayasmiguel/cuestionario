@@ -1,8 +1,8 @@
-1 En tus palabras, ¿Qué es internet?
-2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-5 Describe los protocolos que existen en internet, en específico HTTP y HTML
-6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-8 ¿Cómo funciona la búsqueda de google?
+1 En tus palabras, ¿Qué es internet? el internet es una plataforma digital que te permite buscar cosas e interactuar con mas personas 
+2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet. guiados, no guiados, alambricos y no alambricos 
+3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS. Internet no es una red centralizada ni está regida por un solo organismo. Su estructura es semejante a una tela de araña en la cual unas redes se conectan con otras
+4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular. pues primero se pone en la nube los codigos se leen y llega a tu telefono por medio del internet 
+5 Describe los protocolos que existen en internet, en específico HTTP y HTML. TCP/IP FTP HTTP SMTP (mail) NNTP (news) IRC TELNET GOPHER
+6 cuéntanos lo que aprendiste sobre encriptación y llaves públicas. pues que sirven de mucho nos ayudan a copiar y pegar codigos y para el internet son muy necesarias para poder hacer muchas cosas.
+7 cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet. pues tienes que instalar un antivirus y tambien no picarle a todo solo porque te dicen y nunca metas datos tuyos.
+8 ¿Cómo funciona la búsqueda de google? Una vez que descubrimos la URL de una página, la visitamos (rastreamos) para averiguar qué contiene. Renderizamos la página y analizamos el contenido textual y no textual, además del diseño visual general, para decidir cómo mostrarla en los resultados de la Búsqueda.
